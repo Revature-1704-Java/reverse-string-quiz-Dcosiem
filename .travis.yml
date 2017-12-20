@@ -1,0 +1,6 @@
+anguage: java
+sudo: false
+install: true
+
+script:
+ - mvn clean test
